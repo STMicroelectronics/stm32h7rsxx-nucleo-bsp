@@ -56,7 +56,7 @@ typedef enum
   LD1 = 0U,
   LED_GREEN = LD1,
   LD2 = 1U,
-  LED_BLUE = LD2,
+  LED_YELLOW = LD2,
   LD3 = 2U,
   LED_RED = LD3,
   LEDn
